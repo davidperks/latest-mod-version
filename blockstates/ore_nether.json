@@ -1,7 +1,0 @@
-{
-    "variants":
-    {
-        "variant=ruby": { "model": "pm:ore_nether_ruby"},
-        "variant=titanium": { "model": "pm:ore_nether_titanium"}
-    }
-}
