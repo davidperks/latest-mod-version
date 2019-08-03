@@ -1,9 +1,0 @@
-{
-    "variants":
-    {
-        "check_decay=true,decayable=true": { "model": "pm:leaves_ruby" },
-        "check_decay=true,decayable=false": { "model": "pm:leaves_ruby" },
-        "check_decay=false,decayable=true": { "model": "pm:leaves_ruby" },
-        "check_decay=false,decayable=false": { "model": "pm:leaves_ruby" }
-    }
-}
